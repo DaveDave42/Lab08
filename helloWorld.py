@@ -1,1 +1,2 @@
-print("Hello World, my name is David Lancellotti and I love Python!")
+username = input("Hello! Please enter your name!")
+print("Hello", username, "nice to meet you")
